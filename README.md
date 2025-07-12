@@ -68,6 +68,6 @@ Model trained using Teachable Machine by Google
 
 📬 Contact
 For questions or collaborations, reach me at:
-📷 GitHub: TTTT9
+📷 GitHub: AlbaraaAlnahari
 
 
