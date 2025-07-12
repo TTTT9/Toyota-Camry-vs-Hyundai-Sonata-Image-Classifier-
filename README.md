@@ -29,10 +29,10 @@ The model was built, trained, and tested using TensorFlow and Keras. It was late
 ## 🖼️ Model Results (Screenshots)
 
 ### 🔹 Toyota Camry - Prediction Output  
-![Camry Prediction](path/to/camry_result.png)
+![Camry Prediction](images/Screenshot%202025-07-12%20044857.png)
 
 ### 🔹 Hyundai Sonata - Prediction Output  
-![Sonata Prediction](path/to/sonata_result.png)
+![Sonata Prediction](images/Screenshot%202025-07-12%20043729.png)
 
 > 📝 *Make sure to replace `path/to/...` with the actual path or image file names in your project.*
 
@@ -57,6 +57,6 @@ The model was built, trained, and tested using TensorFlow and Keras. It was late
 
 ## 🔗 Live Colab Project
 
-➡️ [Open in Google Colab](https://colab.research.google.com/github/TTTT9/camry-vs-sonata-classifier/blob/main/camry_vs_sonata.ipynb
+➡️ [Open in Google Colab](https://colab.research.google.com/github/TTTT9/Toyota-Camry-vs-Hyundai-Sonata-Image-Classifier-/blob/main/Toyta_Camry_vs_Hyundai_Sonata.py
 )
 
