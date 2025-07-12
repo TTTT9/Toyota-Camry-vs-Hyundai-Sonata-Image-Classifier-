@@ -60,3 +60,14 @@ The model was built, trained, and tested using TensorFlow and Keras. It was late
 ➡️ [Open in Google Colab](https://colab.research.google.com/github/TTTT9/Toyota-Camry-vs-Hyundai-Sonata-Image-Classifier-/blob/main/Toyta_Camry_vs_Hyundai_Sonata.py
 )
 
+
+
+🤝 Credits
+Developed by [Albaraa]
+Model trained using Teachable Machine by Google
+
+📬 Contact
+For questions or collaborations, reach me at:
+📷 GitHub: TTTT9
+
+
