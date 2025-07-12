@@ -35,7 +35,6 @@ The model was built, trained, and tested using TensorFlow and Keras. It was late
 ### 🔹 Hyundai Sonata - Prediction Output  
 ![Sonata Prediction](Screenshot%202025-07-12%20043729.png)
 
-> 📝 *Make sure to replace `path/to/...` with the actual path or image file names in your project.*
 
 ---
 
