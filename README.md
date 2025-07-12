@@ -29,10 +29,11 @@ The model was built, trained, and tested using TensorFlow and Keras. It was late
 ## 🖼️ Model Results (Screenshots)
 
 ### 🔹 Toyota Camry - Prediction Output  
-![Camry Prediction](images/Screenshot%202025-07-12%20044857.png)
+![Camry Prediction](Screenshot%202025-07-12%20044857.png)
+
 
 ### 🔹 Hyundai Sonata - Prediction Output  
-![Sonata Prediction](images/Screenshot%202025-07-12%20043729.png)
+![Sonata Prediction](Screenshot%202025-07-12%20043729.png)
 
 > 📝 *Make sure to replace `path/to/...` with the actual path or image file names in your project.*
 
